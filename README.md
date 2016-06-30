@@ -1,5 +1,7 @@
-# Explore and Summarize Data 
-Udacity_Project_4
+# Udacity Project 4 
+Explore and Summarize Data
+
+Summary:
 
 Investigated a dataset using R and exploratory data analysis techniques, exploring both single variables and relationships between variables.
 
